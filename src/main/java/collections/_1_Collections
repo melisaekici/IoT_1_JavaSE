@@ -1,0 +1,9 @@
+
+
+Collections
+1. LIST <- Tekrarlı + tekrarsız veri: (LAV) LinkedList, ArrayList, Vector
+2. SET <- Tekrarsız veri: (HLT) HashSet, LinkedHashSet, TreeSet
+3. MAP <- (HHLT) HashTable, HashMap, LinkedHashMap, TreeMap
+
+LinkedList: 2 veri arasında yazıldığında (araya yerleştime ve silme) kuullanılmalı
+ArrayList: Ekleme + arama yapılması gerektiğinde daha kullanışlı (daha hızlı çalışır ve tercih edilir)
